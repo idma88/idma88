@@ -2,7 +2,7 @@
 src="https://github.com/idma88/idma88/raw/main/images/Hi.gif" height="32" /></h1>
 <h3 align="center">Husband, father, software developer</h3>
 
-[![codewars](https://www.codewars.com/users/idma88/badges/small)](https://www.codewars.com/users/idma88)
+<!-- [![codewars](https://www.codewars.com/users/idma88/badges/small)](https://www.codewars.com/users/idma88) -->
 
 - 📫 How to reach me **idma88@yandex.com**
 

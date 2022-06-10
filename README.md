@@ -38,6 +38,8 @@ src="https://github.com/idma88/idma88/raw/main/images/Hi.gif" height="32" /></h1
 <a href="http://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/idma88/idma88/master/icons/bash.svg" alt="bash" width="40" height="40"/></a>
 </p>
 
+### Stats:
+
 ![Trophy](https://github-profile-trophy.vercel.app/?username=idma88&theme=onedark&column=4)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=idma88&count_private=true&show_icons=true&theme=onedark)

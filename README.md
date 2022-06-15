@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Dmitriy<img
-src="https://github.com/idma88/idma88/raw/main/images/Hi.gif" height="32" /></h1>
+src="https://github.com/idma88/idma88/raw/master/images/Hi.gif" height="32" /></h1>
 <h3 align="center">Husband, father, software developer</h3>
 
 <!-- [![codewars](https://www.codewars.com/users/idma88/badges/small)](https://www.codewars.com/users/idma88) -->

@@ -40,6 +40,8 @@ src="https://github.com/idma88/idma88/raw/master/images/Hi.gif" height="32" /></
 
 ### Stats:
 
+![Profile views](https://komarev.com/ghpvc/?username=idma88&style=for-the-badge)
+
 ![Trophy](https://github-profile-trophy.vercel.app/?username=idma88&theme=onedark&column=4)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=idma88&count_private=true&show_icons=true&theme=onedark)
